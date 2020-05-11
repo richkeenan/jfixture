@@ -1,4 +1,4 @@
-> ℹ️ This is fork of https://github.com/FlexTradeUKLtd/jfixture. Unfortunately all my commits to that repo were done using an email address associated with my ex-employer so they aren't linked to my GitHub account. So this fork is a snapshot of that repo on 11 May 2020 and I've rewritten history so my commits are under my personal email address and thus correctly linked to my GitHub account.
+> ℹ️ This is a fork of https://github.com/FlexTradeUKLtd/jfixture. Unfortunately all my commits to that repo were done using an email address associated with my ex-employer so they aren't linked to my GitHub account. This fork is a snapshot of that repo taken on 11 May 2020 and I've rewritten history so my commits are under my personal email address and thus correctly linked to my GitHub account. Commits by other developers remain unchanged.
 
 # JFixture
 JFixture is an open source library based on the popular .NET library, [AutoFixture](https://github.com/AutoFixture/AutoFixture).
